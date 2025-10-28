@@ -1,0 +1,530 @@
+[
+  {
+    "id": "7c11e470-f12e-4045-a6a7-39a561b17b0e",
+    "prompt": "tell me about wallmart ",
+    "slides": [
+      {
+        "title": "Introduction: Walmart Inc.",
+        "content": [
+          "Founded by Sam Walton in 1962 in Rogers, Arkansas, USA.",
+          "The world's largest company by revenue (as of latest Fortune Global 500 list).",
+          "Operates a chain of hypermarkets, discount department stores, and grocery stores.",
+          "Headquartered in Bentonville, Arkansas."
+        ]
+      },
+      {
+        "title": "Global Scale & Reach",
+        "content": [
+          "Over 10,500 stores and clubs in 20 countries worldwide.",
+          "Employs approximately 2.3 million associates globally, making it the largest private employer.",
+          "Serves over 240 million customers each week across its various brands.",
+          "Significant presence in North America, Latin America, Africa, and Asia."
+        ]
+      },
+      {
+        "title": "Core Strategy: Everyday Low Prices (EDLP)",
+        "content": [
+          "Pioneered and maintains a foundational business strategy of 'Everyday Low Prices'.",
+          "Achieves low prices through highly efficient supply chain management and massive purchasing power.",
+          "Focuses on driving high sales volumes by consistently offering value to consumers.",
+          "Emphasizes cost leadership to maintain competitive advantage."
+        ]
+      },
+      {
+        "title": "Diverse Offerings & Innovation",
+        "content": [
+          "Offers a vast range of products including groceries, apparel, electronics, home goods, health & wellness.",
+          "Provides various services like pharmacies, optical centers, and financial services.",
+          "Significant investment and expansion in e-commerce (Walmart.com, Flipkart, JD.com partnership).",
+          "Focus on creating an omnichannel retail experience, integrating online and in-store shopping."
+        ]
+      },
+      {
+        "title": "Economic Influence & Future Outlook",
+        "content": [
+          "Major economic influencer as a global retailer and top employer.",
+          "Continually adapting to evolving consumer trends and digital transformation in retail.",
+          "Investing in technology, sustainability initiatives, and employee development programs.",
+          "Addressing challenges by enhancing customer experience and supply chain resilience."
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:20:10.709Z"
+  },
+  {
+    "id": "d70234c3-1b1e-44bc-a788-acdddbb36045",
+    "prompt": "give me a case study on bectaria ",
+    "slides": [
+      {
+        "title": "Case Study: Escherichia coli (E. coli) O157:H7 Outbreak",
+        "content": [
+          "An investigation into a foodborne pathogen and its public health impact",
+          "Understanding bacterial virulence and transmission"
+        ]
+      },
+      {
+        "title": "The Pathogen: E. coli O157:H7",
+        "content": [
+          "A highly virulent strain of *Escherichia coli*",
+          "Belongs to a group known as Shiga toxin-producing E. coli (STEC)",
+          "Naturally found in the intestines of healthy cattle and other ruminants",
+          "Causes severe gastrointestinal illness, including bloody diarrhea and abdominal cramps",
+          "Can lead to Hemolytic Uremic Syndrome (HUS) in severe cases, particularly in children and the elderly"
+        ]
+      },
+      {
+        "title": "The Case: 2018 Romaine Lettuce Outbreak",
+        "content": [
+          "**Timeline:** March - June 2018",
+          "**Affected Areas:** Multi-state outbreak primarily across the United States and Canada",
+          "**Source:** Epidemiologically linked to contaminated romaine lettuce, largely from the Yuma, Arizona growing region",
+          "**Impact:** Over 200 confirmed illnesses, 96 hospitalizations, 27 cases of HUS, and 5 reported deaths"
+        ]
+      },
+      {
+        "title": "Epidemiological Investigation",
+        "content": [
+          "**Patient Interviews:** Common exposure to romaine lettuce identified through detailed food histories",
+          "**Laboratory Confirmation:** Stool samples from patients confirmed presence of *E. coli* O157:H7; Whole Genome Sequencing (WGS) revealed a closely related genetic fingerprint among patient isolates",
+          "**Traceback Efforts:** Collaboration between CDC, FDA, and state health departments to trace contaminated produce back to its source",
+          "**Environmental Sampling:** Identified the outbreak strain in a canal used for irrigation on a farm near Yuma, Arizona, suggesting water contamination as a likely source"
+        ]
+      },
+      {
+        "title": "Public Health Response & Challenges",
+        "content": [
+          "**Advisories & Recalls:** FDA and CDC issued public warnings and advised consumers to avoid all romaine lettuce not explicitly identified as safe",
+          "**Industry Impact:** Significant economic impact on the agricultural and food service industries due to widespread recalls and consumer mistrust",
+          "**Communication Challenges:** Difficulty in precisely identifying the contaminated lots and advising consumers on what was safe to eat",
+          "**Enhanced Surveillance:** Increased monitoring for *E. coli* O157:H7 cases and HUS"
+        ]
+      },
+      {
+        "title": "Lessons Learned & Prevention Strategies",
+        "content": [
+          "**Improved Traceability:** Highlighted the critical need for robust 'farm-to-fork' tracking systems for fresh produce",
+          "**Agricultural Water Safety:** Emphasized the importance of stringent water quality testing and management in farming operations",
+          "**Enhanced Food Safety Standards:** Led to calls for stricter guidelines and practices for leafy greens growers",
+          "**Rapid Communication:** Reinforced the importance of swift and clear public health messaging during outbreaks",
+          "**Consumer Awareness:** Continued education on safe food handling, washing produce, and being aware of food advisories"
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:21:08.679Z"
+  },
+  {
+    "id": "77e1c415-009e-414b-8709-e2a758e92ade",
+    "prompt": "hey there",
+    "slides": [
+      {
+        "title": "Welcome to Our Presentation",
+        "content": [
+          "Presented by: Your Name/Organization",
+          "Date: [Today's Date]"
+        ]
+      },
+      {
+        "title": "Introduction & Agenda",
+        "content": [
+          "A warm welcome to everyone!",
+          "Brief overview of today's topics",
+          "What you can expect to learn",
+          "Time for questions and discussion"
+        ]
+      },
+      {
+        "title": "Getting Started",
+        "content": [
+          "Setting the stage for our discussion",
+          "Key concepts we'll explore",
+          "Interactive elements to engage everyone"
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:27:49.984Z"
+  },
+  {
+    "id": "d52b62ce-7309-4c6d-8290-7691d31d6a2f",
+    "prompt": "hey there",
+    "slides": [
+      {
+        "title": "Insufficient Prompt",
+        "content": [
+          "The prompt 'yo' is too brief to generate meaningful PowerPoint content.",
+          "Please provide more details on the topic, purpose, and key points you'd like to cover.",
+          "Example: 'Generate slides for an introduction to AI, covering definition, history, and applications.'",
+          "A more detailed prompt will allow me to create relevant and helpful content for your presentation."
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:28:23.449Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey there",
+        "createdAt": "2025-10-28T07:57:02.791Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Loaded 6 slides from history",
+        "createdAt": "2025-10-28T07:57:02.791Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Created 1 slides. Title: Insufficient Prompt",
+        "createdAt": "2025-10-28T07:58:03.648Z"
+      }
+    ]
+  },
+  {
+    "id": "40f42d84-68ad-4778-8a45-3b92c9019cb4",
+    "prompt": "hey there",
+    "slides": [
+      {
+        "title": "Welcome!",
+        "content": [
+          "Hello everyone and thank you for joining us today.",
+          "We're excited to share some insights with you.",
+          "Let's get started!"
+        ]
+      },
+      {
+        "title": "Today's Agenda",
+        "content": [
+          "Brief introduction to our topic.",
+          "Key points and discussions.",
+          "Q&A session at the end.",
+          "Next steps and conclusion."
+        ]
+      },
+      {
+        "title": "Thank You!",
+        "content": [
+          "We appreciate your time and attention.",
+          "Please feel free to ask any questions.",
+          "Let's connect!"
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:30:15.457Z"
+  },
+  {
+    "id": "f9e40564-aefc-4272-a89a-b9d1b310de1d",
+    "prompt": "create a ppt on indian growth ",
+    "slides": [
+      {
+        "title": "India's Economic Growth: A Dynamic Journey",
+        "content": [
+          "An Overview of a Resilient and Evolving Economy",
+          "Exploring Key Drivers, Challenges, and Future Prospects"
+        ]
+      },
+      {
+        "title": "Understanding India's Growth Story",
+        "content": [
+          "One of the world's fastest-growing major economies.",
+          "A significant global player with a vibrant market and diverse sectors.",
+          "Transitioning from an agrarian base to a service-led and industrial economy.",
+          "Characterized by strong domestic demand and a large talent pool."
+        ]
+      },
+      {
+        "title": "Historical Context & Key Milestones",
+        "content": [
+          "Post-independence: Focus on planned economy and self-reliance.",
+          "1991 Economic Reforms: Liberalization, privatization, and globalization – opening up the economy.",
+          "Emergence of the IT and services sector as a global hub.",
+          "Sustained high growth rates in the 21st century, despite global headwinds."
+        ]
+      },
+      {
+        "title": "Key Drivers of Growth",
+        "content": [
+          "Strong Domestic Demand: Large and growing consumer base.",
+          "Demographic Dividend: A young, working-age population.",
+          "Services Sector Dominance: IT, BPO, financial services, healthcare contributing significantly.",
+          "Infrastructure Development: Rapid investment in physical (roads, ports) and digital connectivity.",
+          "Government Reforms: Initiatives for ease of doing business, GST, Make in India, Digital India."
+        ]
+      },
+      {
+        "title": "Sectoral Contributions",
+        "content": [
+          "Services (approx. 55% of GDP): The primary engine of growth (IT, finance, tourism, healthcare).",
+          "Industry (approx. 25% of GDP): Manufacturing, construction, mining – boosted by 'Make in India'.",
+          "Agriculture (approx. 18% of GDP): Sustaining livelihoods, contributing to food security, but declining share in GDP.",
+          "Digital Economy: Rapid expansion of internet penetration, e-commerce, and digital services."
+        ]
+      },
+      {
+        "title": "The Demographic Dividend: India's Youth Advantage",
+        "content": [
+          "World's largest youth population (over 65% under 35 years).",
+          "Potential for a large, productive, and skilled workforce.",
+          "Rising labor participation and increasing productivity.",
+          "Focus on education, skill development, and employment generation to leverage this advantage."
+        ]
+      },
+      {
+        "title": "Government Policies & Reforms: Catalyzing Growth",
+        "content": [
+          "Goods and Services Tax (GST): Unified national market and simplified indirect taxation.",
+          "'Make in India' initiative: Promoting domestic manufacturing and attracting FDI.",
+          "'Digital India': Enhancing digital infrastructure and services for inclusion and efficiency.",
+          "Infrastructure Push: Massive investments in national highways, railways, aviation, and urban infrastructure.",
+          "Financial Inclusion: Schemes like Jan Dhan Yojana and the rise of UPI for digital payments."
+        ]
+      },
+      {
+        "title": "Challenges & Opportunities",
+        "content": [
+          "Challenges: Income inequality, job creation for the growing workforce, environmental sustainability, geopolitical risks, inflation management.",
+          "Opportunities: Global supply chain diversification, green energy transition, expanding digital economy, rapid urbanization, growing middle class."
+        ]
+      },
+      {
+        "title": "Future Outlook: India's Path Forward",
+        "content": [
+          "Projected to be one of the top 3 global economies by 2030, in terms of GDP.",
+          "Continued focus on sustainable, inclusive, and technology-driven growth.",
+          "Leveraging innovation, R&D, and a vibrant startup ecosystem.",
+          "Strengthening global partnerships and enhancing its role in global governance."
+        ]
+      },
+      {
+        "title": "Conclusion: India - A Global Economic Power in the Making",
+        "content": [
+          "A resilient and dynamic economy with strong fundamentals.",
+          "Driven by robust domestic demand, demographic strength, and continuous policy reforms.",
+          "Significant potential for continued high growth and development.",
+          "Playing an increasingly pivotal and influential role in the global economic landscape."
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:30:54.637Z"
+  },
+  {
+    "id": "633113cb-996b-4e78-a32b-46f55fa77855",
+    "prompt": "hey there",
+    "slides": [
+      {
+        "title": "Welcome to Our Presentation!",
+        "content": [
+          "Hello and thank you for joining us today.",
+          "We're excited to share some valuable insights with you.",
+          "Let's dive in and explore new possibilities."
+        ]
+      },
+      {
+        "title": "Today's Agenda",
+        "content": [
+          "Brief Introduction & Overview",
+          "Key Topics & Discussion Points",
+          "Interactive Session & Q&A",
+          "Next Steps & Conclusion"
+        ]
+      },
+      {
+        "title": "Key Takeaways",
+        "content": [
+          "Understanding core concepts is crucial.",
+          "Practical application leads to tangible results.",
+          "Collaboration fosters innovation and growth."
+        ]
+      },
+      {
+        "title": "Questions & Discussion",
+        "content": [
+          "We welcome your thoughts and questions.",
+          "Let's have an open and engaging discussion.",
+          "Feel free to share your perspectives."
+        ]
+      },
+      {
+        "title": "Thank You!",
+        "content": [
+          "We appreciate your time and attention.",
+          "For more information, please contact us.",
+          "Have a wonderful day!"
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:34:35.710Z"
+  },
+  {
+    "id": "17e505fa-b2f9-494e-99a9-cdbf970ce844",
+    "prompt": "hey ",
+    "slides": [
+      {
+        "title": "Introduction to New Drug Research",
+        "content": [
+          "The complex journey of bringing novel medications from concept to patient.",
+          "Addresses unmet medical needs and improves quality of life for millions.",
+          "A multidisciplinary field involving biology, chemistry, medicine, and technology.",
+          "High-risk, high-reward endeavor with significant societal impact and economic investment."
+        ]
+      },
+      {
+        "title": "Drug Discovery: Identifying Potential Candidates",
+        "content": [
+          "**Target Identification & Validation:** Pinpointing specific biological molecules (e.g., proteins, genes) critical to disease progression.",
+          "**Lead Discovery:** Finding initial compounds that interact with the validated target.",
+          "Techniques include high-throughput screening, rational drug design, and natural product isolation.",
+          "**Lead Optimization:** Modifying lead compounds to improve potency, selectivity, and drug-like properties."
+        ]
+      },
+      {
+        "title": "Pre-clinical Development: Safety and Efficacy Testing",
+        "content": [
+          "**In Vitro Studies:** Testing compounds in controlled laboratory environments (cell cultures, isolated tissues).",
+          "**In Vivo Studies (Animal Models):** Evaluating drug effects, safety, and pharmacokinetics in living organisms.",
+          "**Pharmacokinetics (ADME):** Studying Absorption, Distribution, Metabolism, and Excretion of the drug.",
+          "**Pharmacodynamics:** Assessing how the drug affects the body and its mechanism of action.",
+          "**Toxicity Studies:** Identifying potential adverse effects and determining safe dosage ranges."
+        ]
+      },
+      {
+        "title": "Clinical Trials: Human Testing Phases",
+        "content": [
+          "**Phase I (Safety):** Small group (20-100 healthy volunteers/patients); evaluates safety, dosage range, and pharmacokinetics.",
+          "**Phase II (Efficacy & Safety):** Larger group (100-300 patients); assesses effectiveness, optimal dose, and further safety.",
+          "**Phase III (Confirmation):** Large group (hundreds-thousands of patients); confirms efficacy, monitors adverse reactions, compares to standard treatments.",
+          "Requires strict ethical guidelines, informed consent, and robust data collection."
+        ]
+      },
+      {
+        "title": "Regulatory Approval & Post-Market Surveillance",
+        "content": [
+          "**Application Submission:** Compiling comprehensive data from pre-clinical and clinical trials for regulatory agencies (e.g., FDA in US, EMA in EU).",
+          "**Regulatory Review:** Agencies rigorously evaluate drug safety, efficacy, and manufacturing quality.",
+          "**Approval/Rejection:** Decision based on the drug's benefit-risk profile.",
+          "**Phase IV (Post-Market Surveillance):** Ongoing monitoring after approval to detect rare or long-term adverse effects and gather real-world data."
+        ]
+      },
+      {
+        "title": "Challenges and Future Directions",
+        "content": [
+          "**High Costs & Long Timelines:** Drug development averages 10-15 years and billions of dollars with high failure rates.",
+          "**Low Success Rates:** Many promising compounds fail during development, especially in clinical stages.",
+          "**Emerging Technologies:** Artificial Intelligence (AI) for target identification, compound design, and trial optimization.",
+          "**Precision Medicine:** Tailoring treatments based on individual genetic profiles and biomarkers.",
+          "**Advanced Therapies:** Gene therapies, cell therapies, and mRNA technologies are revolutionizing treatment paradigms."
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:37:55.029Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "researrch on new drugs",
+        "createdAt": "2025-10-28T07:48:20.616Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Created 6 slides. Title: Introduction to New Drug Research",
+        "createdAt": "2025-10-28T07:48:20.616Z"
+      }
+    ]
+  },
+  {
+    "id": "376d88c0-a4b5-4b09-85a3-1aa3fea25f8d",
+    "prompt": "ppt on snoop dog",
+    "slides": [
+      {
+        "title": "Snoop Dogg: An Icon of Hip-Hop Culture",
+        "content": [
+          "Introduction to Calvin Cordozar Broadus Jr., universally known as Snoop Dogg.",
+          "More than just a rapper: a multifaceted entrepreneur, actor, media personality, and cultural icon.",
+          "Tracing his journey from Long Beach, California, to global superstardom.",
+          "Exploring his impact on music, entertainment, and popular culture."
+        ]
+      },
+      {
+        "title": "Early Life & Rise to Stardom",
+        "content": [
+          "Born October 20, 1971, in Long Beach, California.",
+          "Early musical influences rooted in funk, soul, and R&B.",
+          "Discovered by Dr. Dre in the early 1990s, who recognized his unique flow and charisma.",
+          "Featured prominently on Dr. Dre's seminal debut album, 'The Chronic' (1992), launching him into the mainstream."
+        ]
+      },
+      {
+        "title": "The Death Row Era: Doggystyle & G-Funk",
+        "content": [
+          "Signed to Death Row Records, marking a pivotal moment in hip-hop history.",
+          "Released his highly anticipated debut album, 'Doggystyle' (1993), which became a multi-platinum success.",
+          "Pioneered the 'G-Funk' sound alongside Dr. Dre, characterized by smooth, synth-heavy beats.",
+          "Iconic hits from this era include 'Gin and Juice' and 'Who Am I? (What's My Name?)'."
+        ]
+      },
+      {
+        "title": "Mid-Career Evolution & Diversification",
+        "content": [
+          "Departed from Death Row Records, exploring new musical directions and labels.",
+          "Joined Master P's No Limit Records, releasing albums like 'Da Game Is to Be Sold, Not to Be Told'.",
+          "Experimented with various genres, including funk, reggae (as Snoop Lion), and even gospel.",
+          "Maintained his distinctive, laid-back vocal style while adapting to changing musical landscapes."
+        ]
+      },
+      {
+        "title": "Beyond Music: Entrepreneurship & Media",
+        "content": [
+          "Extensive career in film and television, with roles in movies (e.g., 'Starsky & Hutch', 'Mac & Devin Go to High School') and TV shows.",
+          "Successful entrepreneurial ventures: cannabis brand 'Leafs By Snoop', food products (Snoop Cereal, Snoop Loopz), and a line of wines (19 Crimes).",
+          "Prominent media personality: reality TV ('Martha & Snoop's Potluck Dinner Party'), web series, and commercials.",
+          "Involved in various philanthropic efforts, including youth football coaching."
+        ]
+      },
+      {
+        "title": "Cultural Impact & Legacy",
+        "content": [
+          "One of the best-selling music artists of all time, with tens of millions of albums sold worldwide.",
+          "Recipient of numerous awards and nominations, including multiple Grammy nominations.",
+          "Recognized for his unique persona, humor, and advocacy for cannabis reform.",
+          "Inducted into the WWE Hall of Fame (Celebrity Wing) and a perennial fixture in pop culture discussions."
+        ]
+      },
+      {
+        "title": "Conclusion: The Enduring Influence of Snoop Dogg",
+        "content": [
+          "From gangsta rap pioneer to beloved global pop culture icon.",
+          "A testament to adaptability, innovation, and staying power in the entertainment industry.",
+          "His distinct voice, style, and entrepreneurial spirit continue to shape music, business, and popular culture.",
+          "Snoop Dogg remains an influential figure, bridging generations and genres with his undeniable charisma."
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:42:07.103Z"
+  },
+  {
+    "id": "162bb95f-b372-47ed-976c-7381a0230044",
+    "prompt": "hey there",
+    "slides": [
+      {
+        "title": "Welcome to Our Presentation!",
+        "content": [
+          "Hello and thank you for joining us today",
+          "We're excited to share some valuable information with you",
+          "Let's dive in!"
+        ]
+      },
+      {
+        "title": "Today's Agenda",
+        "content": [
+          "Introduction & Overview",
+          "Key Topics & Discussion Points",
+          "Next Steps & Q&A Session"
+        ]
+      },
+      {
+        "title": "Getting Started",
+        "content": [
+          "A brief look at what we'll be exploring",
+          "Feel free to ask questions throughout",
+          "We appreciate your engagement and attention"
+        ]
+      }
+    ],
+    "createdAt": "2025-10-28T07:42:29.197Z"
+  }
+]
